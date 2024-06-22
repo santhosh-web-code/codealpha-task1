@@ -1,0 +1,119 @@
+.bg-container{
+    background-image: url("images2/flag\ template.jpg");
+    background-size:cover;
+    width:100vw;
+
+    
+} 
+.bg6{
+    background-image: url("image6/landscape\ bg.jpg");
+    width: 100vw;
+    background-size: cover;
+    padding: 15px;
+
+} 
+.bgh{
+    background-image: url("images/homepage.jpg");
+    width: 100vw;
+    height: 100vh;
+    background-size: cover;
+    padding: 15px;
+
+}
+.bg4{
+    background-image: url("images4/istockphoto-637100092-612x612.jpg");
+    width: 100vw;
+    background-size: cover;
+    padding: 15px;
+
+}
+.bg5{
+    background-image: url("images5/foods\ bg.jpg");
+    width: 100vw;
+    background-size: cover;
+    padding: 15px;
+
+}
+.bg1{
+    background-image: url("images/images (1).jpg");
+    width: 100vw;
+    background-size: cover;
+    padding: 15px;
+
+}
+.bg3{
+    background-image: url("images3/BACKG.jpg");
+    width: 100vw;
+    background-size: cover;
+    padding: 15px;
+
+}
+.but{
+    height: 50px;
+    width: 150px;
+    background-color: green;
+    border-radius:5px;
+    border-width:1px;
+    font-size: 35px;
+
+}
+.but2{
+    height: 70px;
+    width: 150px;
+    background-color: maroon;
+    border-radius:5px;
+    border-width:1px;
+    font-size: 19px;
+
+}
+.bg2{
+    background-image: url("images/download\ \(ee\).jpg");
+    width: 100vw;
+    background-size: cover;
+    padding: 15px;
+
+}
+.im{
+    height: 300px;
+    width: 250px;
+    border-radius: 10px;
+}
+.cd1{
+    background-color: whitesmoke;
+    border-radius: 15px;
+    padding: 19px;
+    width:60vw;
+}
+.head{
+    font-family: Helvetica, sans-serif;
+    font-size: 30px;
+    color:rgb(15, 18, 192);
+    text-align: center;
+    border-radius: 15px;
+    
+
+} 
+
+
+.para{
+    font-family: Helvetica, sans-serif;
+    font-size: 22px;
+    color:darkblue;
+    text-align: center;
+}
+.head1{
+    font-family: Helvetica, sans-serif;
+    font-size: 29px;
+    color:green;
+    text-align: center;
+}
+.cd3{
+    background-color: blanchedalmond;
+    border-radius: 25px;
+}
+.cd2{
+    background-color: orange;
+    border-radius: 25px;
+    padding:7px;
+
+}
